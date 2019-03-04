@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Author
+
+> Sathira Kittisukmongkol
+
 ## Build Setup
 
 ``` bash
